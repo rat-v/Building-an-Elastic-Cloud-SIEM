@@ -1,5 +1,6 @@
 # Building-an-Elastic-Cloud-SIEM 
 
+This is a writeup following [this blog post](https://medium.com/@aali23/a-simple-elastic-siem-lab-6765159ee2b2)
 ## Objective 
 
 In this project, I set up an Elastic Stack SIEM in my home lab. I
