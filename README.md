@@ -1,4 +1,4 @@
-# Building-an-Elastic-Cloud-SIEM 
+# Monitoring-a-Network-for-Nmap-Scans-and-SSH-Brute-Force-Attempts-in-an-Elastic-Cloud-SIEM 
 
 This is a writeup following [this blog post](https://medium.com/@aali23/a-simple-elastic-siem-lab-6765159ee2b2)
 ## Objective 
